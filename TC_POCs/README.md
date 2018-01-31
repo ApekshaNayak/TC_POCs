@@ -2,3 +2,6 @@
  - Exception handling
  - Thread executor
  - Swagger implementation
+ - EMLHttpConverterExperiment
+ - ListMutableOrNot
+ - UseOfFInalVariableInConstructor
